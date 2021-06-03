@@ -29,7 +29,7 @@ img {
 }
 /*Header*/
 .hero {
-    background-image: url(/img/hero.jpg);
+    background-image: url(img/hero.jpg);
     height: 100vh;/*Altura*/
     background-repeat: no-repeat;
     background-position: center center;/*Centrarla*/
